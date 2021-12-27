@@ -1,7 +1,7 @@
 <header>
   <h1 align="center">
     <figure>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" width="300" height="300"/>
+      <img align="center" alt="sudoPedro-Python" height="300" width="300" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain-wordmark.svg" width="300" height="300"/>
     </figure>
     <br>
     <br>
