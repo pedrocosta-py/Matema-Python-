@@ -8,9 +8,14 @@
     Hello There, <br>
     Bem vindo(a) ao REPOSITÓRIO 💻🐍    
   </h1>
-  <h2>
-    Neste repositório serão postados códigos matemáticos em Python com a ajuda do livro Matemática com Python!
+  <h2 align="center">
+    <figure>
+       <img src="https://github.com/sudoAptIPedro/phpKillJava/blob/main/programming2.gif" width="800" height="350" frameBorder="0" class="giphy-embed" style="border-radius:30px;">
+    </figure>
   </h2>
+  <h3>
+    Neste repositório serão postados códigos matemáticos em Python com a ajuda do livro Matemática com Python!
+  </h3>
   <h4> 
     link para compra: <a href="https://www.amazon.com.br/Matemática-com-Python-Guia-Prático/dp/8575227068/ref=sr_1_1?adgrpid=128173141162&gclid=Cj0KCQiA5aWOBhDMARIsAIXLlkfSAr8hdeudlE_A6CLvWOxN7pdd7drdfBKb9mtqYlV1LxgUFPjlGZoaAnM8EALw_wcB&hvadid=542109765727&hvdev=c&hvlocphy=1001652&hvnetw=g&hvqmt=e&hvrand=8192921175235962091&hvtargid=kwd-580218362636&hydadcr=5734_11235962&keywords=matemática+com+python&qid=1640625948&sr=8-1" target="_blank"> Matemática com Python </a>
   </h4>
