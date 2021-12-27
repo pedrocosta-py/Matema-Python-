@@ -12,11 +12,11 @@ numberTwo = int(input("Digite mais um numero: "))
 def quadrado(x):
     return x**2
 
-#
+#elevado ao cubo
 def cubo(y):
     return y**2
 
-#
+#elevado a quarta potencia
 def quartaPotencia(z):
     return z**2
 
