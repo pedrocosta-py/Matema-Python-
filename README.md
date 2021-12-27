@@ -6,7 +6,7 @@
     <br>
     <br>
     Hello There, <br>
-    Bem vindo ao REPOSITÓRIO 💻🐍    
+    Bem vindo(a) ao REPOSITÓRIO 💻🐍    
   </h1>
   <h2>
     Neste repositório serão postados códigos matemáticos em Python com a ajuda do livro Matemática com Python!
