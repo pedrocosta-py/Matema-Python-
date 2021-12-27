@@ -1,3 +1,8 @@
+"""
+
+by sudoaptipedro
+
+"""
 #declarando variáveis que receberam os numeros:
 numOne = int(input("Digite um numero: "))
 numTwo = int(input("Digite um outro numero: "))
