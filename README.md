@@ -33,7 +33,7 @@
         <li> Gráficos </li>
         <li> Cálculo diferencial e integral </li>
         <li> Cálculo Numérico </li>
-        </li> 
+        <li> Além de alguns utilizando <a href="https://docs.python.org/3/library/turtle.html"> Turtle graphics </a>!!!</li> 
     </nav>
     <h4> Divirta-se com os códigos! </h4>
   </div>
