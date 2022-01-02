@@ -29,7 +29,7 @@ b2 = int(input("Entre com o valor de bx:"))
 #c
 c2 = int(input("Entre com o valor de c:"))
 
-#variavel auxiliar que recebe os valores em forma de lista
+#variavel auxiliar que recebe os valores e tranforma em lista
 aux = [a, b, c]
 aux2 = [a2, b2, c2]
 
