@@ -10,11 +10,10 @@ Operações com polinômios:
 """
 from numpy import *
 
-#condicional para a escolha das funções:
 print("Bem Vindo ao programa de operações com polinômios! \n Por favor, digite seus os dados numéricos abaixo: \n")
 #atribuição dos valores:
-#primeiros valores:
 
+#primeiros polinômios:
 # ax**2
 a = int(input("Entre com o valor de ax**2:")) 
 #bx
@@ -22,7 +21,7 @@ b = int(input("Entre com o valor de bx:"))
 #c
 c = int(input("Entre com o valor de c:"))
 
-#segudos valores:
+#segudos polinômios:
 # ax**2
 a2 = int(input("Entre com o valor de ax**2:")) 
 #bx
